@@ -7,18 +7,22 @@ Welcome to my curated collection of data projects! This repository showcases my 
 ## 🔍 Project Categories
 
 ### 📈 **Data Visualization**
+![pyplot-Medals](matplotlib/medals.png)
+
 - **Seaborn & Matplotlib Projects**:  
   - Analyzed global trends (`countries-of-the-world.csv`), fuel efficiency (`mpg.csv`), and survey data (`young-people-survey-responses.csv`).  
   - Created dynamic visualizations in Jupyter notebooks (`seaborn.ipynb`, `bar_histogram_scatter.ipynb`).  
   - Tools: `Seaborn`, `Matplotlib`, `Pandas`.
 
 ### 📉 **Statistical Analysis**
+![pyplot-Amir](Stat%20in%20Python/amir_deals.png)
 - **Probability & Hypothesis Testing**:  
   - Explored sales deals (`amir_deals.csv`) and food consumption patterns (`food_consumption.csv`).  
   - Conducted statistical tests in `probability.ipynb` and `notebook.ipynb`.  
   - Tools: `SciPy`, `StatsModels`.
 
 ### 🎬 **Industry-Specific Analysis**
+![pyplot-Invest](workspace/invest.png)
 - **Movie Industry**:  
   - Merged actor, financial, and genre datasets (`movies.p`, `financials.p`) to analyze box office trends.  
   - Applied SQL-like joins in Python (`join.ipynb`, `merge.ipynb`).  
@@ -26,6 +30,8 @@ Welcome to my curated collection of data projects! This repository showcases my 
   - Cleaned and explored `netflix_data.csv` to identify trends in streaming media.
 
 ### 🌍 **Social & Economic Insights**
+![seaborn-Temp](workspace/temperatures.png)
+
 - **World Bank & Happiness Data**:  
   - Investigated GDP vs. population growth (`WorldBank_GDP.csv`, `WorldBank_POP.csv`).  
   - Correlated happiness metrics with economic factors (`world_happiness.csv`).  
@@ -45,10 +51,3 @@ Welcome to my curated collection of data projects! This repository showcases my 
 - **Visualization**: Seaborn, Matplotlib, Plotly.  
 - **Analysis**: Statistical modeling, data cleaning, feature engineering.  
 - **Tools**: Jupyter Notebooks, VS Code, Git.
-
----
-
-## 🚀 **How to Navigate**
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
